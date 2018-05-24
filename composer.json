@@ -5,8 +5,6 @@
     "homepage": "https://github.com/dssource/yii2-ckeditor",
     "license": "BSD-3-Clause",
     "type": "yii2-extension",
-	"minimum-stability":"stable"
-    ],
     "autoload": {
         "psr-4": {"dssource\\ckeditor\\": ""}
     },
